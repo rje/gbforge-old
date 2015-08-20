@@ -55,6 +55,9 @@
     <Compile Include="Forge\MainWindow.cs" />
     <Compile Include="Forge\Program.cs" />
     <Compile Include="Forge\Tiles\MainView.cs" />
+    <Compile Include="Forge\Tiles\PreviewPane.cs" />
+    <Compile Include="Forge\Tiles\TileEditor.cs" />
+    <Compile Include="Forge\Tiles\Toolpane.cs" />
     <Compile Include="Forge\ToolSelector.cs" />
   </ItemGroup>
   <ItemGroup>
